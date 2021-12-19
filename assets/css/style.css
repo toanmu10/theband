@@ -249,6 +249,7 @@ html{
 #content .member-img{
     width: 154px;
     border-radius: 4px;
+    height: 154px;
 }
 
 /* tour section */
@@ -609,6 +610,7 @@ html{
 
     #content .member-img {
         width: 60%;
+        height: 60%;
     }
     
     .contact-form{
